@@ -33,8 +33,8 @@ profiles:
     url: https://scholar.google.com/citations?user=07S8gvAAAAAJ&hl=en
 
 interests:
-  - evolution of the reptile immune system
-  - selective forces shaping hyperdiverse gene families
+  - reptile immune system function and evolution
+  - the evolution of hyperdiverse gene families
 
 education:
   - area: PhD, Integrative and Conservation Biology
